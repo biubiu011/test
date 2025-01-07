@@ -1,9 +1,8 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
+  "magazineId": [
+    "MAG12345",
+    "MAG67890",
+    "MAG54321"
   ],
   "profile": {
     "name": "typicode"
